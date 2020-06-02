@@ -1,0 +1,10 @@
+.detail{
+  text-align: center;
+  width: 15em;
+  /* position:relative; */
+  background-color:rgb(58, 45, 175);
+  margin: 1em;
+  padding: .3em 0;
+  /* height: 3em;*/
+  border-radius: 4px;
+}

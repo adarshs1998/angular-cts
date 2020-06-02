@@ -1,0 +1,14 @@
+.st{
+    font-size: x-large;
+     width: 15em;
+     height: 2em;
+    background-color: rgb(216, 230, 33);
+  padding-top: 1em;
+  padding-left: 4px;
+}
+.img{
+  float: left;
+}
+.total{
+  background-color: hotpink;
+}

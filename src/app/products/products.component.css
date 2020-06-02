@@ -1,0 +1,36 @@
+.course{
+  margin: 0  0 2em 0;
+  list-style-type:none;
+  padding: 0;
+  width:15em;
+}
+.course li{
+  position:relative;
+  cursor:pointer;
+  background-color:rgb(111, 105, 116);
+  margin: 1em;
+  padding: .3em 0;
+  height: 3em;
+  border-radius: 4px;
+  text-align: center;
+}
+.course li:hover{
+  color: coral;
+}
+
+.head{
+  text-align: center;
+  position: left;
+  background-color: darkorchid;
+  margin: 1em;
+  padding: .3em 0;
+  height: 2em;
+  width: 15em;
+  border-radius: 4px;
+}
+
+.bg{
+  padding-top: 10px;
+  /* padding-bottom: 60px; */
+  background-color: goldenrod;
+}
